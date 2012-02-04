@@ -2,10 +2,10 @@ require 'rubygems'
 
 SPEC = Gem::Specification.new do |s|
   s.name = "ai4ruby"
-  s.version = "1.12"
-  s.author = "Sergio Fierens"
-  s.email = "sergio@jadeferret.com"
-  s.homepage = "http://ai4r.rubyforge.org"
+  s.version = "1.13"
+  s.authors = ["Sergio Fierens", "Peter Lubell-Doughtie"]
+  s.email = ["sergio@jadeferret.com", "support@helioid.com"]
+  s.homepage = "http://www.helioid.com"
   s.rubyforge_project = "ai4r"
   s.platform = Gem::Platform::RUBY
   s.summary = <<-DESC.strip.gsub(/\n\s+/, " ")
